@@ -121,6 +121,14 @@
   <div>Install Complianz and activate for RGPD and privacy of users .</div>
     <div> <img src='./captures/complianz.png'/> </div>
   </li>
+  <li>
+  <div>Install Gtranslate and activate for having multi-languages.</div>
+    <div> <img src='./captures/gtranslate.png'/> </div>
+  </li>
+  <li>
+  <div>Install Yoast SEO and activate for Increase your readers’ engagement.</div>
+    <div> <img src='./captures/yoast.png'/> </div>
+  </li>
 </ol>
 
 </body>
