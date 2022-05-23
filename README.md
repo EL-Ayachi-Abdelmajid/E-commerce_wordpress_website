@@ -1,4 +1,5 @@
 # E-commerce_wordpress_website
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -100,9 +101,26 @@
     <div> <img src='./captures/astra.png'/> </div>
 
   </li>
-	<li>Delete your old WordPress files, saving ones you&#8217;ve modified.</li>
-	<li>Upload the new files.</li>
-	<li>Point your browser to <span class="file"><a href="wp-admin/upgrade.php">/wp-admin/upgrade.php</a>.</span></li>
+	<li><div>Activate starter template.</div>
+    <div> <img src='./captures/store.png'/> </div>
+
+  </li>
+	<li><div>Install woocommerce and activate for get all methods installed.</div>
+    <div> <img src='./captures/woocommerce.png'/> </div>
+
+  </li>
+	<li><div>Install Elementor editor and activate for we can edit easily our website.</div>
+    <div> <img src='./captures/elementor.png'/> </div>
+
+  </li>
+	<li><div>Install stripe and activate for card payment.</div>
+    <div> <img src='./captures/stripe.png'/> </div>
+
+  </li>
+	<li>
+  <div>Install Complianz and activate for RGPD and privacy of users .</div>
+    <div> <img src='./captures/complianz.png'/> </div>
+  </li>
 </ol>
 
 </body>
