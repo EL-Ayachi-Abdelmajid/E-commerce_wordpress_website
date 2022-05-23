@@ -97,7 +97,7 @@
 <h2>Used plugins in this project</h2>
 <ol>
 	<li><div>Install Astra and activate starter template of e-commerce.</div>
-    <div> <img src='../captures/astra.png'/> </div>
+    <div> <img src='./captures/astra.png'/> </div>
 
   </li>
 	<li>Delete your old WordPress files, saving ones you&#8217;ve modified.</li>
